@@ -55,6 +55,26 @@ Apache server or any other server
 4.open the generated url on the browser
 
 
+Login Page
+
+
+
+![image](https://github.com/eaimiesylv/productList/assets/50324524/0810f958-a0f0-4f50-9416-a109b4febd81)
+
+
+Dashboard
+
+
+![image](https://github.com/eaimiesylv/productList/assets/50324524/e0380bff-745a-4902-ac57-2c0f302bf930)
+
+Create Product Page
+
+![image](https://github.com/eaimiesylv/productList/assets/50324524/141b665d-2f77-44f4-b320-647a0ae36c7e)
+
+
+
+
+
 
 
 
